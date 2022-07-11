@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(75, 124, 167);
+    color: rgb(250, 250, 250);
+    border: 3px solid black;
+    margin: 0 auto;
+}
+a {
+    color: yellow;
+    text-decoration: none;
+}
+
+.hola{
+    display: inline;
+}
+
+.titulo{
+    background: orange;
+    width: 150px; 
+    text-align: center;
+    padding: 30px;
+    margin: 20px auto;
+
+}
